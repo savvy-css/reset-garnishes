@@ -1,1 +1,13 @@
 /* @define reset-garnishes */
+
+.g-list-reset {
+  margin: 0 !important;
+  padding-left: 0 !important;
+  list-style: none !important;
+}
+
+.g-link-reset {
+  text-decoration: none !important;
+  color: unset !important;
+}
+
